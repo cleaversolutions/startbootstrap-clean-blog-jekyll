@@ -65,7 +65,7 @@ hr.small {
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+    padding: 0 20px 0 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -400,4 +400,16 @@ body {
 	margin-top: 0px;
 	margin-top: 5px;
 
+}
+
+.waitlist-nav {
+	background-color: #0AB2E0;
+}
+
+.navbar-custom .navbar-brand img {
+	max-width: 100%;
+}
+
+.navbar-brand {
+	padding: 0 15px 0 15px;
 }
