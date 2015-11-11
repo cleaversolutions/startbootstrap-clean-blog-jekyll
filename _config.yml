@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Higher Hangers Blog
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+url: "http://blog.higherhangers.com"
 twitter_username: higherhangers
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+github_username:  
+facebook_username:  higherhangers
 
 # Build settings
 markdown: kramdown
