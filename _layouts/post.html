@@ -24,9 +24,19 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+					<article>
+						{{ content }}
+					</article>
+                
+                   <div class="row">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}"
+   onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
+   target="_blank" title="Share on Facebook">
+   <img alt="Share on Facebook" src="{{ site.baseurl }}/img/shareonfb.png"/>
+</a>
+ </div>
 
-				{{ content }}
-
+    
                 <hr>
 
                 <ul class="pager">
