@@ -34,7 +34,7 @@
     <meta property="og:type"          content="website" /> 
 	<meta property="og:title"         content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}"/> 
 	<meta property="og:site_name"     content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}"/> 
-	<meta property="og:url"           content="http://higherhangers.com" /> 
+	<meta property="og:url"           content="{{ site.url }}" /> 
 	<meta property="og:description"   content="{% if post.subtitle %}{{ post.subtitle }}{% else %}{{ site.description }}{% endif %}"/>
 	<meta property="og:image"         content="{{ site.baseurl }}/{% if page.fb-img %}{{ page.fb-img }}{% else %}{{ site.header-img }}{% endif %}" /> 
 	<meta property="fb:app_id"        content="126092547501452" />
