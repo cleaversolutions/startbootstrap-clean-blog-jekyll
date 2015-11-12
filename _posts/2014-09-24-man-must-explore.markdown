@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "These reinvented clothes hangers create massive amounts of space in your closet"
+subtitle:   "Take advantage of unused vertical space in your closet with these patented clothes hangers."
 date:       2014-09-24 12:00:00
 author:     "Drew Cleaver"
 header-img: "img/NakedHangerComparisonFB.jpg"

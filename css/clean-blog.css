@@ -413,3 +413,7 @@ body {
 .navbar-brand {
 	padding: 0 15px 0 15px;
 }
+
+.post-heading {
+	text-shadow: 1px 1px 10px #000; 
+}
